@@ -1,7 +1,7 @@
 ---
-layout: imprint
+layout: imprintpzip
 themecolor: blue
-date:   2023-08-02 08:15:00
+date:   2023-08-01 05:15:00
 categories: Info
 permalink: impressum-pzip/index.html
 title:  "Impressum"
@@ -10,8 +10,6 @@ highresolutionimg: nxc.svg
 ---
 
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: pfeiffer.zip</p>
 <!-- .entry-content -->
